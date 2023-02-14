@@ -1,10 +1,10 @@
 const readLine = require('readline-sync');
 
-let answer = readLine.question("What day is it?\nYour answer: jc  ");
-    "F \O["HOYQ ");
+let answer = readLine.question("What day is it?\nYour answer: ");
 console.log(answer);
 
-let username = readLine.question("Enter username: ");
+
+
 let password = readLine.question("Enter password: ");
 if (password == "abc"){
     console.log(`Welcome ${username}`);
@@ -28,7 +28,7 @@ console.log(`${base} to the power of ${exp} = ${answer2}`);
 // Rounding
 console.log(5.7);
 console.log(Math.round(5.7));
-console.log(Math.round(5.3));
 console.log(5.3);
+console.log(Math.round(5.3));
 console.log(-5.3);
 console.log(Math.round(-5.3));
