@@ -4,15 +4,13 @@ let answer = readLine.question("Wanna hear a joke?\nYour answer: ");
 
 
 
-let joke = readLine.question("joke: ");
-if ("yes");
- else {
-    console.log("invalid");
-}
-{
-    console.log()
+let choice = readLine.question("want to hear a joke: ");
+if (answer ="yes"); {
+    console.log("What do you call a well-balanced horse?");
 }
 
+
+let number = Number (readline.question)
 
 
 
