@@ -14,6 +14,7 @@ let number = Number (readline.question)
 
 
 
+console.log(Math.floor(x3.5));
 
 
 
